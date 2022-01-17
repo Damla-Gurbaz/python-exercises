@@ -42,5 +42,5 @@ def is_square(n):
     if a*a==n:
         return True
     else:
-        return False
+        return--False
     
